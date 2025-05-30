@@ -15,7 +15,8 @@
 
 <!-- GitHub Stats Widgets -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=dark&hide_border=true" alt="Streak Stats"/>
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricmanue97&layout=compact&theme=dark&hide_border=true" alt="Top Languages"/>
+<!-- GitHub Stats -->
+<img src="https://github-readme-streak-stats.herokuapp.com?user=ricmanue97&theme=dark&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricmanue97&layout=compact&theme=dark&hide_border=true" />
+
 </p>
