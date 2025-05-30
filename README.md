@@ -6,8 +6,7 @@
 
 🧠 Student @ 42 Lisboa – learning by building, failing, and trying again  
 👨‍💻 42 Lisboa Ambassador – helping out the community & new students  
-⚙️ Into tech, cars, and sports  
-🚀 Always learning, always coding  
+
 
 ---
 
